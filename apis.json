@@ -1,0 +1,85 @@
+{
+    "name": "Farsight Security",
+    "description": "Farsight Security provides real-time actionable cyber security data solutions for Threat Intelligence, SOC and Incident Response teams",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20048-farsight-security.jpg",
+    "tags": [
+        "api service provider",
+        "have api",
+        "security"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/farsight-security\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Farsight Security",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20048-farsight-security.jpg",
+            "humanURL": "https:\/\/www.farsightsecurity.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/farsight-security-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.farsightsecurity.com\/Blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/www.farsightsecurity.com\/Blog\/index.rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/farsight-security"
+        },
+        {
+            "type": "Email",
+            "url": "XXXXXXXXXXX@farsightsecurity.com"
+        },
+        {
+            "type": "Email",
+            "url": "kburke@fsi.io"
+        },
+        {
+            "type": "Email",
+            "url": "info@farsightsecurity.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@farsightsecurity.com"
+        },
+        {
+            "type": "Email",
+            "url": "careers@farsightsecurity.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@farsightsecurity.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@farsightsecurity.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/farsightsec"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/FarsightSecInc"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.farsightsecurity.com\/"
+        }
+    ]
+}
